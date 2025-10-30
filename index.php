@@ -98,5 +98,5 @@ else
 }
 
 define('VIEWPATH', $view_folder.DIRECTORY_SEPARATOR);
-
+// test commit
 require_once BASEPATH.'core/CodeIgniter.php';
